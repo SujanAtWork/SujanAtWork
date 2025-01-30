@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying web development from Angela you on Udemy. I am also studying at Pict, Pune College of Engineering, and pursuing my BTech in IT. I am looking forward to learning from other developers and helping them with their projects.
+I am currently studying web development on Udemy. I am also studying at Pict, Pune College of Engineering, and pursuing my BTech in IT. I am looking forward to learning from other developers and helping them with their projects.
 
 
 ## 🌐 Socials:
