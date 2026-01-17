@@ -1,12 +1,5 @@
 <img width="1536" height="1024" alt="Github_readme_banner" src="https://github.com/user-attachments/assets/71c8acb1-1335-41a3-8dfb-e47f027e2d9c" />
 
-
-<p align="center">
-  <img src="C:\Users\Prashant\Downloads\Github_readme_banner.png" alt="Welcome Banner" />
-</p>
-
----
-
 ## 👋 Introduction
 
 Hi, I’m **Sujan** — a passionate **Full-Stack Web Developer**.  
@@ -29,29 +22,19 @@ My focus is on writing **practical, maintainable code** that solves real-world p
 ## 🧠 Tech Stack
 
 ### 💻 Languages
-- JavaScript  
-- C++  
-- SQL
-- Java
-- Python
+<p> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=black"/> </a> <a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=cplusplus&logoColor=00599C"/> </a> <a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=336791"/> </a> </p>
 
 ### ⚙️ Backend & Server
-- Node.js  
-- Express.js  
+<p> <a href="https://nodejs.org/en/docs" target="_blank"> <img src="https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=339933"/> </a> <a href="https://expressjs.com/" target="_blank"> <img src="https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=000000"/> </a> </p>
 
 ### 🎨 Frontend
-- HTML5  
-- CSS3  
-- EJS  
-- React (v19)  
+<p> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&_attach=css3&logoColor=1572B6"/> </a> <a href="https://ejs.co/" target="_blank"> <img src="https://img.shields.io/badge/EJS-ffffff?style=for-the-badge&logo=ejs&logoColor=black"/> </a> <a href="https://react.dev/" target="_blank"> <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB"/> </a> </p>
 
 ### 🗄️ Database
-- PostgreSQL  
+<p> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=336791"/> </a> </p>  
 
 ### 🛠 Tools & Platforms
-- Git & GitHub  
-- Render  
-- Figma  
+<p> <a href="https://git-scm.com/doc" target="_blank"> <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717"/> </a> <a href="https://render.com/docs" target="_blank"> <img src="https://img.shields.io/badge/Render-ffffff?style=for-the-badge&logo=render&logoColor=46E3B7"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=F24E1E"/> </a> </p>
 
 ---
 
